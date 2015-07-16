@@ -1,0 +1,24 @@
+[33mcommit b4e4d88a67479a9b2499ffeb2cbbd60434ece9da[m
+Merge: 8219d11 cb0c3be
+Author: Illsism <raul.unknown@gmail.com>
+Date:   Thu Jul 16 11:51:10 2015 +0300
+
+    Initialize firs merge
+
+[33mcommit cb0c3be096b73bdd77adc0edb7ea8f88d54dc0b1[m
+Author: illsism <raul.unknown@gmail.com>
+Date:   Thu Jul 16 11:41:01 2015 +0300
+
+    Delete README.md
+
+[33mcommit 184a4b96209bd2e15c10384ad1a956d087e38c6d[m
+Author: illsism <raul.unknown@gmail.com>
+Date:   Thu Jul 16 11:31:56 2015 +0300
+
+    Initial commit
+
+[33mcommit 8219d11754302f64fb36988c7bc08b9f9eed6ad5[m
+Author: Illsism <raul.unknown@gmail.com>
+Date:   Thu Jul 16 11:14:31 2015 +0300
+
+    Initialize repository
